@@ -6,6 +6,8 @@ Contact me:
 - [LinkedIn](https://www.linkedin.com/in/freddiebullard/)
 - [Email](mailto:freddie.bullard@outlook.com)
 
+Or check out my [website](https://fs-bullard.github.io).
+
 
 
 <!--
