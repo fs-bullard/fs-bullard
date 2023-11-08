@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Freddie, a Physics Undergraduate at Durham University interested in applying computing to all things scientific!
+I'm Freddie, a Theoretical Physics Undergraduate at Durham University interested in applying computing to all things scientific!
 
 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/freddiebullard/)
