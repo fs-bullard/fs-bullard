@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Freddie, an incoming master's student in mathematics at the University of Cambridge and physics graduate from Durham University, UK, interested in solving image-related problems!
+I'm Freddie, a master's student in mathematics at the University of Cambridge and physics graduate from Durham University, UK!
 
 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/freddiebullard/)
